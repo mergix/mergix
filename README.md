@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ismail fagbenro
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Html/CSS , Javascript .
+- 🌱 I’m currently learning Html/CSS , Javascript, C#.
 - 💞️ I’m looking to collaborate on a variety of web-based/Javascript projects
 - 📫 How to reach me @Busines75022087 on Twitter
 
